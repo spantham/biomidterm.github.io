@@ -1,0 +1,52 @@
+<!DOCTYPE>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My Midterm Review</title>
+    <style>
+      
+      body {
+      
+      color: rgb(255, 255, 0);
+      
+      }
+     
+    </style>
+  </head>
+  <body>
+  
+    <h2>Carbohydrates</h2>
+    <p>There are monosaccharies, disaccharides, and polysaccharides.  The monosaccharides are glucose, fructose, and galactose.<br>Fructose is a pentose, with a 4-carbon ring, while glucose and galactose have a 5-carbon ring. The glucose has two types, alpha and beta. Beta glucose has two hydroxyl groups up, and two down.<br>Alpha glucose has 1 hydroxyl up, and 3 down, with the differentiating hydroxyl being the one on the first carbon. And the difference between glucose and galactose<br>is that galactose always has 3 hydroxyls up and 1 down, with the differentiating hydroxyl being the one nearest to the CH2OH group. Glucose is found in Vit C<br>supplements, glucose tablets, and even in IV fluid, but we usually have it through polysaccharides. Fructose is found in honey, fruits, root vegetables, and high fructose corn syrup.<br>Galactose is found in milk. These monosacchardies allow for quick energy, with these monosaccharides being immediately used for cellular respiration.</p>
+    
+    <p>When in comes to dissacharides, you have maltose, sucrose, and lactose. Maltose has alpha glucose, with two glucose binding together, bending the bonds of each glucose molecule to form what's known as a "chair structure". Maltose is generally found in soft drinks, malted candy, etc. Sucrose has alpha glucose as well, with a glucose and fructose binding together. Sucrose is simply table sugar!! Lastly, there's lactose, which is a beta glucose linked to a galactose. As both are 5-carbon monomers, you can tell maltose from lactose as maltose will form a table structure. This lactose is found ind dairy products, especially yogurts, and some people lack the enzyme lactase, which breaks down lactose, and so these people are lactose intolerant.  They may have altered dairy sources or substitutes of dairy. These disaccharides are used for quick eneryg release, as well, as there's only one bond.</p>
+    
+    <p>When it comes to polysaccharides, you have starch, cellulose, glycogen, and chitin. All of these are simply strings of glucose. Starch is a string of alpha glucose in one orientation, with the CH2OH groups all lined up. This starch is found in the vacuoles of plants, such as potatoes, wheat, and rice. The glycogen is similar, but instead of one single chain, there are multiple chains that are connected together vertically to form branches. And these are found in the vacuoloes of liver and muscle cells. Starch and glycogen are used for long-term energy storage that takes more time to break down into indidvidual glucose monomers, used when energy is low or when an animal is breaking down starch or glycogen when digesting plant/animal food. Cellulose has beta glucose, oriented so that the CH2OH groups are oriented up and then down and then up, with adjacent glucose pointing in vertically opposite directions. This cellulose isn't used for energy. It's structural, building up the cell walls. Chitin makes up the cell walls of fungi, and the glucose is oriented in the same way as in cellulose, but a nitrogen is connected in each CH2OH group.</p>
+    
+    <h2>Location of Organelles</h2>
+    
+    <ul>
+    
+      <li>Nucleus - eukaryotic cells</li>
+      <li>Endoplasmic reticulum - eukaryotic cells</li>
+      <li>Centrioles - animal cells but sometimes in plant cells</li>
+      <li>Cytoplasm - all cells</li>
+      <li>Cell membrane - all cells</li>
+      <li>Cell wall - all prokaryotic cells and plant cells</li>
+      <li>Ribosomes - all cells</li>
+      <li>Golgi apparatus - eukaryotic cells<li>
+      <li>Lysosomes - animal cells and possibly in plant cells (or at least something like lysosomes)</li>
+      <li>Mitochondria - all eukaryotic cells</li>
+      <li>Chloroplasts - plant cells</li>
+      <li>Vacuoles - eukaryotic cells, but there's one, large, central one in plant cells</li>
+      <li>Cilia/Flagella - all prokaryotic cells and some animal cells<li>
+      
+    </ul>
+    
+    
+    <h3>Kingdoms of Organisms<h3>
+    <p>Let's go over the kingdoms of archaebacteria and eubacteria. They are prokaryotic and unicellular, and they are both heterotrophic and autotrophic. Archaebacteria have cell walls that allow them to survive in extreme temperatures, extreme salt contents, extreme pH's, etc. Many eubacteria can't do that, with their cell walls having peptidoglycan. Eubacteria can be harmful, but most are harmelss, even helpful, with mose residing in our gut, helping to digest food! They come in different shapes and different groupings as well. Also, they can break down, dead, organic matter, being important decomposers. As for archaebacteria, many are extremophiles, being the first organisms on Earth, which was harsh at that time. They have their own RNA, and they can use hydrogen, sulfur, and sulfide to produce ATP in addition to oxygen. Lastly, they use budding and fragmentation for asexual reproduction, while eubacteria generally uses binary fission.<p>
+    <p>Let's go over fungi, protista, plantae, and animalia.</p>
+    
+ </body>
+ 
+</html>
